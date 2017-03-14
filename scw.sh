@@ -5,7 +5,7 @@
 WALLPAPER_PATH="/tmp/wallpaper"
 WALLPAPER_URL="https://github.com/thenoen/whack/blob/master/w.jpg"
 
-sleep 10;
+sleep 1200;
 
 wget $WALLPAPER_URL -O $WALLPAPER_PATH;
 
